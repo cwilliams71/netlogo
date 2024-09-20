@@ -1,5 +1,7 @@
 # Netlogo Resoources
 
+[Netlogo: Resources and Links](https://ccl.northwestern.edu/netlogo/resources.shtml)
+
 [Download Any Version of Netlogo](https://ccl.northwestern.edu/netlogo/oldversions.shtml)
 
 [Netlogo User Manual (Version 6.4.0)](https://ccl.northwestern.edu/netlogo/faq.html)
